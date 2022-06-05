@@ -1,0 +1,65 @@
+ *{
+    margin: 0px;
+    padding: 0px;
+}
+.parallaxone{
+    position: relative;
+    background-position: center;
+    width: 100%;
+    height: 600px;
+    background: url("https://1d59b73swr1f1swu2v451xcx-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/barb-canale-YDG0lDHz9PI-unsplash-720x484.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}  
+
+.parallaxone h2{
+    position: absolute;
+    left: 580px;
+    top: 300px;
+    width: 160px;
+    height: 25px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.parallaxtwo{
+    position: relative;
+    background-position: center;
+    width: 100%;
+    height: 600px;
+    background: url("https://media.cntraveler.com/photos/60596b398f4452dac88c59f8/3:2/w_3999,h_2666,c_limit/MtFuji-GettyImages-959111140.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.parallaxtwo h2{
+    position: absolute;
+    left: 580px;
+    top: 300px;
+    width: 160px;
+    height: 25px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+ .para{
+    /* width: 100%;  */
+    padding: 40px;
+    text-align: center;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.ping1, .ping2, .ping3{
+    position: relative;
+    background-position: center;
+}
+
+
+
+
